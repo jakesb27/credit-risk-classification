@@ -6,9 +6,7 @@ The purpose of this challenge is to predict high-risk vs. healthy loans using th
 
 </br>
 
-### <u>Classifiction Report Summary</u>
-
-</br>
+## Classifiction Report Summary
 
 ### Healthy Loan
 * Precision - 1.00
